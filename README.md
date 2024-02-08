@@ -1,7 +1,6 @@
-### Hi there 👋
 
 <!--
-**Galvngif1207/Galvngif1207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**a42baf2dcebd5f1aaeadf78ec792fb61771635af/Galvngif1207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
